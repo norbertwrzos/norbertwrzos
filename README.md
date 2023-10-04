@@ -4,10 +4,10 @@
 - 🔭 I’m currently working on [808store](https://github.com/norbertwrzos/808store)  
   
 
-- 🌱 I’m currently learning HTML, CSS & JavaScript  
+- 🌱 I’m currently deepening my Flutter knowledge
   
 
-- ⚡ Lookin for the first job in the IT industry  
+- ⚡ Coding is a key to success
   
 
 <br/>  
